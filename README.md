@@ -6,7 +6,7 @@ Hi, i'm a Flutter developer who is passionate about creating efficient, user-fri
 
 # Live Apps
   - ## [Lofi Moosic](https://lofi-moosic.web.app/)
-  - [Codimager](https://codimager.web.app/)
+  - ## [Codimager](https://codimager.web.app/)
 
 # Skills: 
 ![I am Flutter Dev](https://img.icons8.com/color/48/null/html-5--v1.png)        ![I am Flutter Dev](https://img.icons8.com/color/48/null/flutter.png)        ![I am Flutter Dev](https://img.icons8.com/color/48/null/dart.png)        ![I am Flutter Dev](https://img.icons8.com/color/48/null/python--v1.png)        ![I am Flutter Dev](https://img.icons8.com/color/48/null/firebase.png)
