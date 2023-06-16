@@ -5,7 +5,7 @@
 Hi, i'm a Flutter developer who is passionate about creating efficient, user-friendly, and visually appealing mobile applications, Although I am still finding my way around Flutter, I am constantly learning and expanding my skills to improve my craft.I am excited about the future of mobile application development and look forward to making meaningful contributions to this rapidly evolving field.
 
 # Live Apps
-  - ![Icon-512 (Custom)](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/68e1aa4e-0cfa-4440-990d-acc4feb17c4d) ## [Lofi Moosic](https://lofi-moosic.web.app/)
+  - ## [Lofi Moosic](https://lofi-moosic.web.app/)  ![Icon-512 (Custom)](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/68e1aa4e-0cfa-4440-990d-acc4feb17c4d)
   - ## [Codimager](https://codimager.web.app/)
   - ## [Offline Chess](https://offline-chess.web.app/)
 
