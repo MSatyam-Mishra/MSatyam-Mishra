@@ -6,11 +6,7 @@ Hi, i'm a Flutter developer who is passionate about creating efficient, user-fri
 
 # Live Apps
  
-![Icon-192](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/6cecc0da-694e-414f-8637-f8bb9c8b1b6e)
-
-![android-icon-192x192](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/0ebce80a-36b8-49c2-b587-7be07489fc18)
-
-![git](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/deade069-dd35-46b3-90cc-c044c4ca961c)
+[![Icon-192](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/6cecc0da-694e-414f-8637-f8bb9c8b1b6e)](https://lofi-moosic.web.app/) [![android-icon-192x192](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/0ebce80a-36b8-49c2-b587-7be07489fc18)](https://codimager.web.app/) [![git](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/deade069-dd35-46b3-90cc-c044c4ca961c)](https://offline-chess.web.app/)
 
 # Skills: 
 ![I am Flutter Dev](https://img.icons8.com/color/48/null/html-5--v1.png)        ![I am Flutter Dev](https://img.icons8.com/color/48/null/flutter.png)        ![I am Flutter Dev](https://img.icons8.com/color/48/null/dart.png)        ![I am Flutter Dev](https://img.icons8.com/color/48/null/python--v1.png)        ![I am Flutter Dev](https://img.icons8.com/color/48/null/firebase.png)
