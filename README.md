@@ -5,10 +5,12 @@
 Hi, i'm a Flutter developer who is passionate about creating efficient, user-friendly, and visually appealing mobile applications, Although I am still finding my way around Flutter, I am constantly learning and expanding my skills to improve my craft.I am excited about the future of mobile application development and look forward to making meaningful contributions to this rapidly evolving field.
 
 # Live Apps
-  - ## [Lofi Moosic](https://lofi-moosic.web.app/)  ![Icon-512 (Custom)](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/68e1aa4e-0cfa-4440-990d-acc4feb17c4d)
-  - ## [Codimager](https://codimager.web.app/)
-  - ## [Offline Chess](https://offline-chess.web.app/)
+ 
+![Icon-192](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/6cecc0da-694e-414f-8637-f8bb9c8b1b6e)
 
+![android-icon-192x192](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/0ebce80a-36b8-49c2-b587-7be07489fc18)
+
+![git](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/deade069-dd35-46b3-90cc-c044c4ca961c)
 
 # Skills: 
 ![I am Flutter Dev](https://img.icons8.com/color/48/null/html-5--v1.png)        ![I am Flutter Dev](https://img.icons8.com/color/48/null/flutter.png)        ![I am Flutter Dev](https://img.icons8.com/color/48/null/dart.png)        ![I am Flutter Dev](https://img.icons8.com/color/48/null/python--v1.png)        ![I am Flutter Dev](https://img.icons8.com/color/48/null/firebase.png)
