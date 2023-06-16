@@ -6,7 +6,9 @@ Hi, i'm a Flutter developer who is passionate about creating efficient, user-fri
 
 # Live Apps
 
-[![Foo]([http://www.google.com.au/images/nav_logo7.png](http://www.google.com.au/images/nav_logo7.png](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/f4951762-1f4f-4062-aa82-76478746f5b6))](http://google.com.au/)
+[![Loofi Moosic](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/f4951762-1f4f-4062-aa82-76478746f5b6)](https://lofi-moosic.web.app/)
+
+
 
  
 
