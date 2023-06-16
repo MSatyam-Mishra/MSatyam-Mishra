@@ -2,11 +2,11 @@
 
 
 
-Hi, i'm a Flutter developer who is passionate about creating efficient, user-friendly, and visually appealing mobile applications, Although I am still finding my way around Flutter, I am constantly learning and expanding my skills to improve my craft.I am excited about the future of mobile application development and look forward to making meaningful contributions to this rapidly evolving field.
+Hi, I'm a Flutter developer who is passionate about creating efficient, user-friendly, and visually appealing mobile applications, Although I am still finding my way around Flutter, I am constantly learning and expanding my skills to improve my craft. I am excited about the future of mobile application development and look forward to making meaningful contributions to this rapidly evolving field.
 
 # Live Apps
 
-[![Loofi Moosic](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/f4951762-1f4f-4062-aa82-76478746f5b6)](https://lofi-moosic.web.app/)
+[![Loofi Moosic](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/f4951762-1f4f-4062-aa82-76478746f5b6)](https://lofi-moosic.web.app)
 
 
 
