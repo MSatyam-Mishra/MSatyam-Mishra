@@ -6,7 +6,8 @@ Hi, I'm a Flutter developer who is passionate about creating efficient, user-fri
 
 # Live Apps
 
-[![Loofi Moosic](https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/f4951762-1f4f-4062-aa82-76478746f5b6)](https://lofi-moosic.web.app)
+[<img src="https://github.com/MSatyam-Mishra/MSatyam-Mishra/assets/12216430/f4951762-1f4f-4062-aa82-76478746f5b6">](https://lofi-moosic.web.app),
+
 
 
 
