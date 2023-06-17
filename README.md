@@ -19,7 +19,7 @@ Hi, I'm a Flutter developer who is passionate about creating efficient, user-fri
 
 
 # Skills: 
-[![My Skills](https://skillicons.dev/icons?i=Flutter,Dart,HTML,Python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,html,python&theme=light)](https://skillicons.dev)
 
 
 
