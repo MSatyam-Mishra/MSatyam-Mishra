@@ -12,6 +12,7 @@ Hi, I'm a Flutter developer who is passionate about creating efficient, user-fri
 
  - ## [Offline Chess](https://offline-chess.web.app/)
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MSatyam-Mishra?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 # Skills: 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,html,python&theme=light)](https://skillicons.dev)
