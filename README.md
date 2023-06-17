@@ -19,7 +19,7 @@ Hi, I'm a Flutter developer who is passionate about creating efficient, user-fri
 # Skills: 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,html,python&theme=light)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSatyam-Mishra&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSatyam-Mishra&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSatyam-Mishra)](https://github.com/anuraghazra/github-readme-stats)
 
