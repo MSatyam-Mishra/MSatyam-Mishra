@@ -20,20 +20,7 @@ Hi, I'm a Flutter developer who is passionate about creating efficient, user-fri
 ![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
-
-![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSatyam-Mishra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-
-
-
-
-
-
-![Profile views](https://gpvc.arturio.dev/MSatyam-Mishra)  
