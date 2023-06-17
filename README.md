@@ -4,7 +4,7 @@
 
 Hi, I'm a Flutter developer who is passionate about creating efficient, user-friendly, and visually appealing mobile applications, Although I am still finding my way around Flutter, I am constantly learning and expanding my skills to improve my craft. I am excited about the future of mobile application development and look forward to making meaningful contributions to this rapidly evolving field.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSatyam-Mishra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MSatyam-Mishra&show_icons=true&theme=transparent)
 
 # Live Apps
 
