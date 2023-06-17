@@ -13,17 +13,11 @@ Hi, I'm a Flutter developer who is passionate about creating efficient, user-fri
  - ## [Offline Chess](https://offline-chess.web.app/)
 
 
-
- 
-
-
-
 # Skills: 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,html,python&theme=light)](https://skillicons.dev)
 
-
-![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 
