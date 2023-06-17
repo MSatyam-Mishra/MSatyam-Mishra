@@ -12,8 +12,6 @@ Hi, I'm a Flutter developer who is passionate about creating efficient, user-fri
 - [**Codimager**](https://codimager.web.app): A simple code image creator Web App for Social Share.
 - [**Offline Chess**](https://offline-chess.web.app): Simple Offline Chess Web App.
 
-
-
 ![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
