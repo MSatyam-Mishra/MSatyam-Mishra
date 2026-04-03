@@ -11,16 +11,19 @@ Hi, I'm a Flutter developer who is passionate about creating efficient, user-fri
 
 # 💡 Live Projects
 
-- [**QR Suite**](https://www.qrsuiteapp.com/): Advanced QR Code Generator & Scanner.
-- [**OptiBiz**](https://apps.apple.com/in/app/optibiz/id6478521592): One Tap Business Card Solution ([App Store](https://apps.apple.com/in/app/optibiz/id6478521592) | [Google Play](https://play.google.com/store/apps/details?id=com.app.optibiz&hl=en_IN)).
-- [**OptiBids**](https://optibids.etreetech.com/): OptiBids Platform.
-- [**Career Classes Concept School**](https://www.careerclassesconceptschool.com/): Official platform for Career Classes Concept School.
-- [**Lofi Moosic**](https://lofi-moosic.web.app): A Simple & Beautiful Lofi Web App.
-- [**Codimager**](https://codimager.web.app): A simple code image creator Web App for Social Share.
-- [**Offline Chess**](https://offline-chess.web.app): Simple Offline Chess Web App.
+| 🚀 Name | 📝 About Project | 🔗 Links |
+| :--- | :--- | :--- |
+| **QR Suite** | Advanced QR Code Generator & Scanner. | [![Website](https://img.shields.io/badge/Website-212121?style=flat&logo=googlechrome&logoColor=white)](https://www.qrsuiteapp.com/) |
+| **OptiBiz** | One Tap Business Card Solution. | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=appstore&logoColor=white)](https://apps.apple.com/in/app/optibiz/id6478521592) [![Google Play](https://img.shields.io/badge/Google_Play-008239?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.optibiz&hl=en_IN) |
+| **OptiBids** | OptiBids Platform. | [![Website](https://img.shields.io/badge/Website-212121?style=flat&logo=googlechrome&logoColor=white)](https://optibids.etreetech.com/) |
+| **Career Classes Concept School** | Official platform for Career Classes Concept School. | [![Website](https://img.shields.io/badge/Website-212121?style=flat&logo=googlechrome&logoColor=white)](https://www.careerclassesconceptschool.com/) |
+| **Lofi Moosic** | A Simple & Beautiful Lofi Web App. | [![Web App](https://img.shields.io/badge/Web_App-212121?style=flat&logo=googlechrome&logoColor=white)](https://lofi-moosic.web.app) |
+| **Codimager** | A simple code image creator Web App for Social Share. | [![Web App](https://img.shields.io/badge/Web_App-212121?style=flat&logo=googlechrome&logoColor=white)](https://codimager.web.app) |
+| **Offline Chess** | Simple Offline Chess Web App. | [![Web App](https://img.shields.io/badge/Web_App-212121?style=flat&logo=googlechrome&logoColor=white)](https://offline-chess.web.app) |
 
 ![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MSatyam-Mishra&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
