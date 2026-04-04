@@ -1,4 +1,5 @@
-
+![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 # 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![GetX](https://img.shields.io/badge/GetX-%2302569B.svg?style=flat&logo=flutter&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-%2302569B.svg?style=flat&logo=flutter&logoColor=white) [![Hive](https://img.shields.io/badge/Hive-%23FB724C.svg?style=flat)](https://hivedb.dev/) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white)
@@ -15,8 +16,7 @@
 | [![Codimager](https://img.shields.io/badge/Codimager-3B82F6?style=flat&logo=canva&logoColor=white)](https://codimager.web.app) | A simple code image creator Web App for Social Share. | [![Web App](https://img.shields.io/badge/🌐_Web_App-212121?style=flat)](https://codimager.web.app) |
 | [![Offline Chess](https://img.shields.io/badge/Offline%20Chess-64748B?style=flat&logo=lichess&logoColor=white)](https://offline-chess.web.app) | Simple Offline Chess Web App. | [![Web App](https://img.shields.io/badge/🌐_Web_App-212121?style=flat)](https://offline-chess.web.app) |
 
-![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MSatyam-Mishra/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MSatyam-Mishra&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
