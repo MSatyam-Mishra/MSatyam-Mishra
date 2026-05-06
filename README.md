@@ -8,15 +8,12 @@
 
 | 🚀 Name | 📝 About Project | 🔗 Links |
 | :--- | :--- | :--- |
-| [![QR Suite](https://img.shields.io/badge/QR%20Suite-8B5CF6?style=flat&logo=pwa&logoColor=white)](https://www.qrsuiteapp.com/)  | Advanced QR Code Generator. | [![Website](https://img.shields.io/badge/🌐_Website-212121?style=flat)](https://www.qrsuiteapp.com/) [![QR%20Suite](https://img.shields.io/badge/QR%20Suite-8B5CF6?style=flat&logo=pwa&logoColor=white)](https://app.qrsuiteapp.com/) |
 | [![OptiBiz](https://img.shields.io/badge/OptiBiz-F97316?style=flat&logo=flutter&logoColor=white)](https://apps.apple.com/in/app/optibiz/id6478521592) | One Tap Business Card Solution. | [![App Store](https://img.shields.io/badge/App_Store-000000?style=flat&logo=appstore&logoColor=white)](https://apps.apple.com/in/app/optibiz/id6478521592) [![Google Play](https://img.shields.io/badge/Google_Play-008239?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.optibiz&hl=en_IN) |
 | [![OptiBids](https://img.shields.io/badge/OptiBids-10B981?style=flat&logo=webflow&logoColor=white)](https://optibids.etreetech.com/) | OptiBids Platform. | [![Website](https://img.shields.io/badge/🌐_Website-212121?style=flat)](https://optibids.etreetech.com/) |
 | [![Career Classes](https://img.shields.io/badge/Career%20Classes-EAB308?style=flat&logo=googleclassroom&logoColor=white)](https://www.careerclassesconceptschool.com/) | Official platform for Career Classes Concept School. | [![Website](https://img.shields.io/badge/🌐_Website-212121?style=flat)](https://www.careerclassesconceptschool.com/) |
 | [![Lofi Moosic](https://img.shields.io/badge/Lofi%20Moosic-EC4899?style=flat&logo=spotify&logoColor=white)](https://lofi-moosic.web.app) | A Simple & Beautiful Lofi Web App. | [![Web App](https://img.shields.io/badge/🌐_Web_App-212121?style=flat)](https://lofi-moosic.web.app) |
 | [![Codimager](https://img.shields.io/badge/Codimager-3B82F6?style=flat&logo=canva&logoColor=white)](https://codimager.web.app) | A simple code image creator Web App for Social Share. | [![Web App](https://img.shields.io/badge/🌐_Web_App-212121?style=flat)](https://codimager.web.app) |
 | [![Offline Chess](https://img.shields.io/badge/Offline%20Chess-64748B?style=flat&logo=lichess&logoColor=white)](https://offline-chess.web.app) | Simple Offline Chess Web App. | [![Web App](https://img.shields.io/badge/🌐_Web_App-212121?style=flat)](https://offline-chess.web.app) |
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MSatyam-Mishra&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
