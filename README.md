@@ -15,6 +15,12 @@
 | [![Codimager](https://img.shields.io/badge/Codimager-3B82F6?style=flat&logo=canva&logoColor=white)](https://codimager.web.app) | A simple code image creator Web App for Social Share. | [![Web App](https://img.shields.io/badge/🌐_Web_App-212121?style=flat)](https://codimager.web.app) |
 | [![Offline Chess](https://img.shields.io/badge/Offline%20Chess-64748B?style=flat&logo=lichess&logoColor=white)](https://offline-chess.web.app) | Simple Offline Chess Web App. | [![Web App](https://img.shields.io/badge/🌐_Web_App-212121?style=flat)](https://offline-chess.web.app) |
 
+# 📦 Packages
+
+| 🧩 Name | 📝 About Package | 🔗 Links |
+| :--- | :--- | :--- |
+| [![FlowUI DataTable](https://img.shields.io/badge/FlowUI_DataTable-02569B?style=flat&logo=flutter&logoColor=white)](https://pub.dev/packages/flow_ui_datatable) | A Flutter package for building beautiful, responsive, and customizable data tables. | [![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=flat&logo=dart&logoColor=white)](https://pub.dev/packages/flow_ui_datatable) |
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MSatyam-Mishra&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
